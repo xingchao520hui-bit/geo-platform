@@ -1,0 +1,16 @@
+{
+  "apiKey": "sk-sp-H.DMIXLL.IR6V.MEYCIQCd5WJmxnsrQ7ceHYEca-6nAIjSqz8MkuNB4aEMtN7VwwIhAN5t7ZmxiOLu7nIi68P6x4RtTrQ-rDKlWh5dQJTcpJ4P",
+  "baseUrl": "https://token-plan.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+  "model": "qwen3.8-max",
+  "cdpPort": 3310,
+  "browserProfile": "C:\\Users\\LENOVO\\Codex\\灰灰宇宙-GEO浏览器",
+  "edgePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "cron": "0 9 * * *",
+  "enabledPlatforms": [
+    "zhihu",
+    "baijiahao",
+    "weibo",
+    "bilibili",
+    "toutiao"
+  ]
+}

@@ -1,0 +1,9 @@
+# 敏感数据 — 绝不上传（各平台登录态 cookie）
+data/logins.json
+
+# LLM 调试日志
+data/_llm_req_*.json
+data/restart-verify.log
+
+# Node
+node_modules/
